@@ -3,6 +3,7 @@
 - Mate
 - GNOME
 - KDE
+- XFCE4
 
 ## Window managers 
 See https://en.wikipedia.org/wiki/Tiling_window_manager#List_of_tiling_window_managers_for_Windows
@@ -23,24 +24,27 @@ See https://en.wikipedia.org/wiki/Tiling_window_manager#List_of_tiling_window_ma
 - Konsole
 - Terminator
 - Guake
-- 
+
 ### General Application
 - tty-clock
 - rsync - provides fast incremental file transfer
 - VSCode
-- Audacity
 - Blender
-- GIMP
 - PiTiV
-- Rhythmbox
 - Calligra Suite
 - LibreOffice
 - Sublime Text
 - Geany
-- VLC
 - Bitwarden
+- Emacs
+
+### Multimedia
+- Audacity
+- GIMP
+- Rhythmbox
+- VLC
+- CAVA
 
 ### Online
 - qBittorent
 - Transmission
-- Emacs
