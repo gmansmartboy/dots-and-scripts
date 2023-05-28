@@ -37,6 +37,7 @@ See https://en.wikipedia.org/wiki/Tiling_window_manager#List_of_tiling_window_ma
 - Geany
 - Bitwarden
 - Emacs
+- Docker
 
 ### Multimedia
 - Audacity
@@ -48,3 +49,4 @@ See https://en.wikipedia.org/wiki/Tiling_window_manager#List_of_tiling_window_ma
 ### Online
 - qBittorent
 - Transmission
+- https://docusaurus.io/
