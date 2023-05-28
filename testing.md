@@ -46,8 +46,15 @@ See https://en.wikipedia.org/wiki/Tiling_window_manager#List_of_tiling_window_ma
 - VLC
 - CAVA
 
-### Online
+### Online Tools
 - qBittorent
 - Transmission
 - https://docusaurus.io/
 - https://mateoproceo.com/
+- https://www.notion.so/
+- https://httpd.apache.org/
+- https://www.php.net/
+- https://developer.mozilla.org/en-US/docs/Web/HTML
+- https://www.w3schools.com/php/default.asp
+- https://www.w3schools.com/python/default.asp
+- https://www.markdownguide.org/cheat-sheet
